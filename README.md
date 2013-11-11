@@ -9,19 +9,18 @@ companies don't think like that. Hence this repository, to become better at
 interviewing. With practice, this should be achievable.
 
 This repository will contain a collection of useful resources to help you
-prepare, such as coding questions, behavioural questions, resume tips, practice
+prepare. Coding questions, behavioural questions, resume tips, practice
 tips, tips for phone and in-person interviews, and more.
+
 
 ### Contributing
 
-Pull Requests welcome! I'd love to include your best tips and favourite
-questions. Or maybe you just want to add a solution to an existing question.
+Pull Requests welcome, but please read [CONTRIBUTING](CONTRIBUTING.md) first.
 
-I've disabled the wiki and issue tracker because I don't want the extra
-overhead.
+Send me your best tips, favourite questions, or solutions to existing problems.
 
-Please read the [CONTRIBUTING](contributing.md) document before sending a Pull
-Request.
+_Note that I've disabled the wiki and issue tracker._
+
 
 ### Attribution
 
