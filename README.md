@@ -12,14 +12,28 @@ This repository will contain a collection of useful resources to help you
 prepare, such as coding questions, behavioural questions, resume tips, practice
 tips, tips for phone and in-person interviews, and more.
 
+### Contributing
+
+Pull Requests welcome! I'd love to include your best tips and favourite
+questions. Or maybe you just want to add a solution to an existing question.
+
+I've disabled the wiki and issue tracker because I don't want the extra
+overhead.
+
+Please read the [CONTRIBUTING](contributing.md) document before sending a Pull
+Request.
+
 ### Attribution
 
 The content in this repository is mainly a reflection of the book
 [Cracking the Coding Interview][CtCI] by Gayle Laakmann McDowell.
 It's a fantastic prep resource and I recommend grabbing a copy.
 
-I'll also be using resources from other places. Every file should have an
-attribution comment, unless the content is original and created by me.
+I'll also be using resources from other places, including questions
+that I've personally been asked in interviews.
+
+Every file should have an attribution comment, unless the content is original
+and created by me.
 
 
 [CtCI]: http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X
