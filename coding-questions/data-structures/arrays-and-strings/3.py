@@ -33,9 +33,9 @@ def is_permutation_v1(a, b):
 
 # Even less lines of code, if we use a default dict.
 def is_permutation_v2(a, b):
-    d = defaultdict(int)  # When no key present, new value is 0.
+    d = defaultdict(int)  # Set default value to default int value, 0. Use `lambda: 1` for other values.
     for e in a:
         d[e] += 1
-    for x in b:
+    for e in b:
         d[e] -= 1
     return not any(d.values())
