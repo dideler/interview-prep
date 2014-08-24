@@ -1,5 +1,6 @@
 - TODO: break into sections with headers
 - TODO: add more info, e.g. strategies, how to write good code, and so on
+- TODO: consider using names instead of numbers for question filenames
 
 Many tech companies will ask you to code something.
 
@@ -50,6 +51,9 @@ that you'll use on the job.
 Avoid doing complicated stuff. Don't try impress your interviewer with complex
 solutions, often the most readable and simplest solution is best in the
 interview.
+
+Start with the most obvious solution (often brute force) and then iterate and
+improve it.
 
 After you've written the code, the interview will likely review it with you and
 ask why you did something a certain why and if it can be improved.
