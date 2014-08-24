@@ -6,5 +6,7 @@ def contains_unique_chars(string):
         char_set.add(character)
     return True
 
-print(contains_unique_chars('hello'))
-print(contains_unique_chars('world'))
+def is_unique(s):
+    """Simpler code and more efficient than the above."""
+    return len(s) == len(set(s))
+
