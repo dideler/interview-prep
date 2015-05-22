@@ -1,7 +1,3 @@
-- TODO: break into sections with headers
-- TODO: add more info, e.g. strategies, how to write good code, and so on
-- TODO: consider using names instead of numbers for question filenames
-
 Many tech companies will ask you to code something.
 
 If the position you're applying to involves writing code and the interviewer(s)
@@ -10,43 +6,48 @@ consider that a big red flag.
 
 Most companies will ask you to code something in real-time while observing you.
 Some may have you tackle the problem individually, while others may have you pair
-program with someone on the team. Such problems may be asked over a phone, if
-you're lucky, you'll share an editor with the interviewer, otherwise have fun
-describing your algorithm. If the interview is in person, it will likely be
-a whiteboard coding problem.
+program with someone on the team. Some interviews are in-person, some are over
+the phone. For phone interviews, you may share an editor with the interviewer.
 
 Some companies will give you a "take home" coding problem. You'll have a limited
 amount of time to solve the problem(s), typically a few days. In these
-situations you can use whatever resources to solve the problem (e.g. access to
-the internet and books are allowed). These problems tend to be slightly more
-difficult than the problems in "real-time" interviews.
+situations you can use any non-restricted resource to solve the problem (e.g.
+access to the internet and books are allowed). These problems tend to be
+slightly more difficult than the problems in "real-time" interviews, but
+I prefer this style because it's more realistic to how you work.
 
-In take-home interviews, they want to see if you're capable of solving the
-problem in a reasonable manner and timeframe. They're less concerned about your
-thought process or strategies.
+No matter the type of coding interview, they typically want to see
+- clean code
+- robust code
+- use of patterns where justified
+- tests
+- your thought process
+- communication skills
 
-In real-time interviews, the goal is not to get the best answer.  The goal is to
-witness your thought process and decision making. They want to see how you
-approach the problem. It is crucial for success that you **communicate** while
-working on the problem.
+In coding interviews, you usually don't need the best solution.
+They want to see how you approach the problem.
+It's crucial that you **communicate** while working on the problem.
 
-Questions are often intentionally underspecified, so you have to ask questions
+Questions are often intentionally underspecified. Ask questions to clarify
 before writing a solution. Never start writing code before asking questions.
 
 Little details like syntax errors don't matter. Can't figure out if it's
 `size()` or `length()`? Say you're unsure, choose one, describe what it does,
 and move on.
 
-Write good, clean, robust code and test it.
+For whiteboard coding, don't get bogged down by details. Write high-level code
+first that uses lots of undefined methods, and define them later if needed.
 
-Interviewers expect real code. You can use pseudocode to start as long as you
-tell your interviewer that you will write real code later.
+Test your code. If short on time, do it manually or with well-placed assertions.
+If you have more time, go for unit tests. Show that you think about testing.
 
-Use a popular language. Don't use brainfuck, or prolog, or basic, or some other
-language that most people have never used, unless you're going to be using that
-language on the job. I personally prefer to use Python, but other popular
-choices are Java, C++, C#, and JavaScript. Bonus points if you use a language
-that you'll use on the job.
+Interviewers expect code in a programming language. You can start with pseudocode
+as long as you tell your interviewer that you'll write real code later.
+
+Use a language that you would use on the job. If the job posting didn't specify
+a language, try to use a popular language that the interviewer is likely to be
+familiar with. Python is usually a safe choice. Other common options are
+Ruby, Java, C++, C#, and JavaScript.
 
 Avoid doing complicated stuff. Don't try impress your interviewer with complex
 solutions, often the most readable and simplest solution is best in the
@@ -56,10 +57,11 @@ Start with the most obvious solution (often brute force) and then iterate and
 improve it.
 
 After you've written the code, the interview will likely review it with you and
-ask why you did something a certain why and if it can be improved.
+ask why you did something a certain way and if it can be improved.
 
 Interviewers aren't given a list of questions to use. They choose their own.
-Chances are they know the problem well and various ways how to solve it.
+Chances are they know the problem well and various ways how to solve it. So if
+you tell them that they are wrong about a solution, you better be sure.
 
 If you're stuck, say you're stuck. Think out loud. Nothing is worse than being
 quiet, especially during a phone interview.
