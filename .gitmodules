@@ -1,3 +1,6 @@
 [submodule "algorithms"]
 	path = algorithms
 	url = git@github.com:sagivo/algorithms.git
+[submodule "practice-problems"]
+	path = practice-problems
+	url = git@github.com:codingforinterviews/practice-problems.git
