@@ -4,3 +4,6 @@
 [submodule "practice-problems"]
 	path = practice-problems
 	url = git@github.com:codingforinterviews/practice-problems.git
+[submodule "questions-for-interviewer"]
+	path = questions-for-interviewer
+	url = git@github.com:ChiperSoft/InterviewThis.git
