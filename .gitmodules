@@ -7,3 +7,6 @@
 [submodule "questions-for-interviewer"]
 	path = questions-for-interviewer
 	url = git@github.com:ChiperSoft/InterviewThis.git
+[submodule "interview-questions"]
+	path = interview-questions
+	url = git@github.com:roseperrone/interview-questions.git
