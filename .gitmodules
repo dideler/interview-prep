@@ -10,3 +10,6 @@
 [submodule "interview-questions"]
 	path = interview-questions
 	url = git@github.com:roseperrone/interview-questions.git
+[submodule "algoClass"]
+	path = algoClass
+	url = git@github.com:kuychaco/algoClass.git
